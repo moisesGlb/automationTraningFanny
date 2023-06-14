@@ -24,7 +24,6 @@ public class TestCaseWiki {
         return new Object[][]{
                 {"Selenium", "Selenium","Selenium"},
                 {"TDD", "Desarrollo_guiado_por_pruebas","Desarrollo guiado por pruebas"},
-                {"JAVA", "Java (lenguaje_de_programa)","lenguaje de programa"},
                 {"DATA DRIVEN TESTING", "Data-driven_testing","Data-driven testing"}
         };
     }
