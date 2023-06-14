@@ -29,5 +29,5 @@ $ mvn clean install -DSuite=Testng.xml
 
 # Report Captures
 
-![]()
+![](https://raw.githubusercontent.com/moisesGlb/automationTraningFanny/main/screenshoots/report.png)
 
