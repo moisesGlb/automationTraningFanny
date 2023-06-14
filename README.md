@@ -7,7 +7,7 @@ This Repo is part of a training exercise. I'm trying to create a repo with autom
   - Selenium
   - Data provider 
   - Page Object Model and Page Factory
-  - You can execute this repo in linux distribution, windows or mac 
+  - You can execute this repo windows  
 
 # Requisites
 
